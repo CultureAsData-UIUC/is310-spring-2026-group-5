@@ -11,7 +11,6 @@ Our investigation includes cultural objects and practices connected to virtual s
 
 **In Scope:**
 - AI tools used by students in academic settings
-- Virtual learning environments (especially during the COVID-19 pandemic)
 - Online and social media spaces where AI is discussed or used
 - Productivity and learning outcomes associated with AI assistance
 - Academic integrity concerns related to AI (e.g., plagiarism, cheating)
