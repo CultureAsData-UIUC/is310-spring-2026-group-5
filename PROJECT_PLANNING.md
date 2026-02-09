@@ -10,10 +10,10 @@ Our investigation includes cultural objects and practices connected to virtual s
 ### Scope of Investigation
 
 **In Scope:**
-- Student AI usage and correlation to their grades
+- (Tara) Student AI usage and correlation to their grades
 - (Diana Ngo) Social spaces & social media: https://web.archive.org/web/20030202073115/http://site.aboutface.com/comp_facebook.html
-- Productivity and learning outcomes with AI assistance
-- Dataset about AI and Academic Integrity / Plagiarism Trends
+- (Haneen) Productivity and learning outcomes with AI assistance
+- (Zohra) Dataset about AI and Academic Integrity / Plagiarism Trends
 
 ---
 
