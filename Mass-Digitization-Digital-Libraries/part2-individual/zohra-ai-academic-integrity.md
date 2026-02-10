@@ -1,31 +1,40 @@
 # Part 2: AI and Academic Integrity / Plagiarism Trends  
-**Zohra Hussaini**
+**Zohra Hussaini**  
 
-dataset: https://copyleaks.com/about-us/press-releases/one-year-later-copyleaks-data-finds-76-spike-in-ai-generated-content-among-students?utm_source=chatgpt.com
+Dataset: (https://copyleaks.com/about-us/press-releases/one-year-later-copyleaks-data-finds-76-spike-in-ai-generated-content-among-students?utm_source=chatgpt.com)  
 
 ## Digital Objects & Representations
-For my area of focus, digital objects mainly include datasets and reports that track AI usage and plagiarism in student work. One example is reports published by Copyleaks, which analyze trends in AI-generated content found in student assignments. Another example is the MIT Plagiarism Detection Dataset, which contains pairs of texts labeled as plagiarized or not plagiarized and is used for research and model training. These count as digital objects because they are structured digital records created to study academic integrity and AI detection.
+- Digital objects include datasets and reports that track AI use and plagiarism in student work.  
+- Examples: Copyleaks reports and the MIT Plagiarism Detection Dataset, used for research and AI detection.  
 
 ## Digitization Processes
-Most digital objects in this area are born-digital rather than digitized from physical materials. Student assignments are submitted online, then scanned using plagiarism and AI-detection software. The systems analyze patterns in the text and store the results as digital data. This process is very different from what we saw in HathiTrust, where physical magazines were scanned and OCR was used to extract text. Instead of converting physical objects into digital form, academic integrity data is created digitally from the start.
+- Most data is born-digital, created entirely online from student submissions.  
+- Unlike HathiTrust, there’s no scanning or OCR; software directly analyzes text and stores results digitally.  
 
 ## Historical Equivalents
-Before digital tools, academic integrity was handled through manual methods. Instructors would read printed essays and rely on their own judgment to notice copied material or similarities between students’ work. Records of misconduct were often kept in physical files. Compared to modern digital systems, these methods were slower and less consistent, and they did not produce large datasets that could be analyzed over time.
+- Before digital tools, teachers manually checked printed essays for plagiarism.  
+- Records were kept in physical files, which was slower and less consistent than digital systems.  
 
 ## Born-Digital Materials
-There are many born-digital materials in this area. Examples include AI detection reports, plagiarism scores, and datasets used to train detection models. These materials never existed in physical form and are created entirely through digital submission and analysis. Unlike digitized texts, they do not rely on OCR or scanning and instead depend on algorithms and machine learning.
+- AI detection reports, plagiarism scores, and research datasets are all born-digital.  
+- They were never physical and rely on algorithms and machine learning, not scanning.  
 
 ## Oldest Digital Library or Archive
-One of the earliest large-scale digital systems related to academic integrity is Turnitin. It has been used by universities since the late 1990s to store student submissions and check for plagiarism. Over time, it has expanded to include AI detection features. While Turnitin is not fully open to the public, it represents an early example of a digital archive built around academic work and integrity enforcement.
+- Turnitin is one of the earliest digital systems for academic integrity, starting in the late 1990s.  
+- It stores student submissions and checks for plagiarism, now also including AI detection features.  
 
 ## Newest Digital Library or Archive
-A more recent example is the AIDE dataset created by The Learning Agency Lab. This dataset includes both AI-generated and student-written essays and is used to improve detection models. Compared to older systems like Turnitin, newer datasets focus more on transparency and research access and often include clearer documentation about how the data was created.
+- The AIDE dataset from The Learning Agency Lab is a newer resource.  
+- It includes AI-generated and student essays and is designed for research and improving detection models.  
 
 ## Viral Examples
-AI and plagiarism detection has become a viral topic in academic spaces, especially with reports showing large increases in AI-generated student work. Articles and social media discussions about tools like Turnitin and Copyleaks have sparked debates about fairness, accuracy, and how schools should handle AI use. This attention has increased awareness of academic integrity tools but has also raised concerns about over-reliance on automated systems.
+- AI and plagiarism detection became a hot topic after reports showed big increases in AI-generated student work.  
+- This led to debates online about fairness, accuracy, and school policies.  
 
 ## Free vs. Proprietary Access
-There is a clear divide between free and proprietary resources in this area. Open datasets like the MIT Plagiarism Detection Dataset and the AIDE dataset are available for researchers and students to explore. In contrast, platforms like Turnitin and Copyleaks are proprietary and require institutional access. Free resources support transparency and research, while proprietary systems focus more on enforcement and control, which reflects the tension between public access and commercial interests discussed by Besser and Kahle.
+- Open datasets like MIT Plagiarism Detection and AIDE are free for research.  
+- Turnitin and Copyleaks are proprietary and require institutional accounts, focusing on enforcement rather than public access.  
+
 
 
 
