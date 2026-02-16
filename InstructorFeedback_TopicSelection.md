@@ -50,14 +50,12 @@ Given that your theme emphasizes AI as an "cultural and social systems," I'd enc
 
 Rather than trying to access student data and measure outcomes, you might instead analyze:
 
-- **How is AI discussed in academic spaces?** Analyze course syllabi, university statements about AI, student discussions in forums and social media. What narratives emerge? What fears, hopes, or assumptions are expressed?
-- **How are institutions responding?** Analyze institutional policies, plagiarism detection tools, AI literacy initiatives. What values do these reveal?
+- How is AI discussed in academic spaces? Analyze course syllabi, university statements about AI, student discussions in forums and social media. What narratives emerge? What fears, hopes, or assumptions are expressed?
+- How are institutions responding? Analyze institutional policies, plagiarism detection tools, AI literacy initiatives. What values do these reveal?
 
 This approach would be more aligned with the course's emphasis on "culture, meaning, and data" and would likely raise fewer ethical and access concerns. Happy to discuss this further if you're interested in shifting your focus in this direction.
 
 I did appreciate the notes on communication and your plan to use individual folders for each member's dataset, which all sounds solid. I actually like your use of Google Docs, since in some ways that gives more detailed data on contributions than git, but I would request you share access to the Google Docs so I can assess contributions from respective group members.
-
----
 
 ## Individual Feedback
 
