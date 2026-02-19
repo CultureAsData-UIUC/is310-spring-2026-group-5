@@ -4,7 +4,6 @@
 
 ## Digital Objects & Representations
 - Digital objects include datasets and reports that track AI use and plagiarism in student work.  
-- Examples: Copyleaks reports and the MIT Plagiarism Detection Dataset, used for research and AI detection.  
 
 ## Digitization Processes
 - Most data is born-digital, created entirely online from student submissions.  
