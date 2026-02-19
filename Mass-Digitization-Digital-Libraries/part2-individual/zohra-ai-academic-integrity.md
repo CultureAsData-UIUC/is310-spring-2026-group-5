@@ -5,6 +5,7 @@
 ## Digital Objects & Representations
 - Digital objects include datasets and reports that track AI use and plagiarism in student work.  
 
+
 ## Digitization Processes
 - Most data is born-digital, created entirely online from student submissions.  
 - Unlike HathiTrust, there’s no scanning or OCR; software directly analyzes text and stores results digitally.  
