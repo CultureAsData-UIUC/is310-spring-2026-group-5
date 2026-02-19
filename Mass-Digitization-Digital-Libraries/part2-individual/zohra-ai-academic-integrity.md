@@ -1,7 +1,6 @@
 # Part 2: AI and Academic Integrity / Plagiarism Trends  
 **Zohra Hussaini**  
 
-Dataset: (https://copyleaks.com/about-us/press-releases/one-year-later-copyleaks-data-finds-76-spike-in-ai-generated-content-among-students?utm_source=chatgpt.com)  
 
 ## Digital Objects & Representations
 - Digital objects include datasets and reports that track AI use and plagiarism in student work.  
