@@ -2,13 +2,14 @@
 **Zohra Hussaini**  
 
 
+report: https://copyleaks.com/about-us/press-releases/one-year-later-copyleaks-data-finds-76-spike-in-ai-generated-content-among-students? 
+Comment: I tested the Copyleaks press release using their own AI Detector, and the system classified the text as 100% AI-generated.
+
 ## Digital Objects & Representations
 - Digital objects include datasets and reports that track AI use and plagiarism in student work.  
 
-
 ## Digitization Processes
-- Most data is born-digital, created entirely online from student submissions.  
-- Unlike HathiTrust, there’s no scanning or OCR; software directly analyzes text and stores results digitally.  
+- Most data is typically born-digital, created entirely online from student submissions.  
 
 ## Historical Equivalents
 - Before digital tools, teachers manually checked printed essays for plagiarism.  
@@ -21,18 +22,15 @@
 ## Oldest Digital Library or Archive
 - Turnitin is one of the earliest digital systems for academic integrity, starting in the late 1990s.  
 - It stores student submissions and checks for plagiarism, now also including AI detection features.  
-
-## Newest Digital Library or Archive
-- The AIDE dataset from The Learning Agency Lab is a newer resource.  
-- It includes AI-generated and student essays and is designed for research and improving detection models.  
+ 
 
 ## Viral Examples
-- AI and plagiarism detection became a hot topic after reports showed big increases in AI-generated student work.  
+- AI and plagiarism detection became a hot topic after it showed big increases in AI-generated student work.  
 - This led to debates online about fairness, accuracy, and school policies.  
 
 ## Free vs. Proprietary Access
-- Open datasets like MIT Plagiarism Detection and AIDE are free for research.  
-- Turnitin and Copyleaks are proprietary and require institutional accounts, focusing on enforcement rather than public access.  
+- Turnitinis proprietary and require institutional accounts, focusing on enforcement rather than public access.
+- Copyleaks also operates as a proprietary system, though it provides public-facing tools for testing AI detection, as done as above.
 
 
 
