@@ -1,5 +1,6 @@
 # Exploring HathiTrust: Digitization in Practice
 
+
 ## Finding the African American Periodical Poetry
 
 ### Search strategies used
