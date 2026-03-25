@@ -1,0 +1,77 @@
+
+1,Reddit,r/uiuc,yes,not specified,negative,no,https://www.reddit.com/r/UIUC/comments/1kxuvpq/as_a_student_of_mathematics_i_feel_like_we_stem/
+2,Reddit,r/uiuc,yes,not specified,neutral,no,https://www.reddit.com/r/UIUC/comments/1nhykzr/ai_note_video_transcriber/
+3,Reddit,r/studytips,yes,Gemini,positive,yes,https://www.reddit.com/r/studytips/comments/1qcvc8m/ai_study_tips_that_got_me_85_in_uni/
+4,Reddit,r/college,yes,not specified,negative,yes,https://www.reddit.com/r/college/comments/12wsqtm/should_i_drop_a_class_if_i_got_a_0_on_a/
+5,Reddit,r/college,yes,not specified,negative,yes,https://www.reddit.com/r/college/comments/17k6o7q/written_up_for_paper_flagged_as_30_ai_generated/
+6,Reddit,r/studytips,yes,ChatGPT,neutral,no,https://www.reddit.com/r/studytips/comments/1ro1z7w/what_ai_are_yall_using_for_studying/
+7,Reddit,r/studytips,yes,Notebook LM,positive,no,https://www.reddit.com/r/studytips/comments/1k21t70/using_notebook_lm_to_generate_interactive/
+8,Reddit,r/college,yes,Notebook LM,positive,yes,https://www.reddit.com/r/college/comments/1fubos9/anyone_else_using_notebook_lm_to_study/
+9,Reddit,r/uiuc,yes,not specified,negative,no,https://www.reddit.com/r/UIUC/comments/1rot4s3/im_losing_trust_in_my_cs_degree/
+10,Reddit,r/uiuc,yes,Claude,positive,no,https://www.reddit.com/r/UIUC/comments/1s0x7hz/claude_builder_club_hackathon/
+11,Reddit,r/uiuc,yes,not specified,negative,no,https://www.reddit.com/r/UIUC/comments/1lam0pd/ai_just_took_my_job/
+12,Reddit,r/chatgpt,yes,ChatGPT,negative,yes,https://www.reddit.com/r/ChatGPT/comments/1kmxbtf/chatgpt_has_ruined_schools_and_essays/?utm_source=chatgpt.com
+13,Reddit,r/college,yes,not specified,neutral,yes,https://www.reddit.com/r/college/comments/15qbgwo/if_i_write_an_essay_or_something_and_put_it_into/
+14,Reddit,r/college,yes,ChatGPT,negative,yes,https://www.reddit.com/r/college/comments/1o80w3a/anyone_else_feel_like_theyre_barely_surviving/
+15,Reddit,r/college,no,n/a,positive,yes,https://www.reddit.com/r/college/comments/1jty81w/i_taught_my_door_and_i_got_93/
+16,Reddit,r/college,yes,n/a,negative,yes,https://www.reddit.com/r/college/comments/1op72g0/how_do_you_approach_dense_academic_readings/
+17,Reddit,r/studytips,yes,Perplexity,positive,yes,https://www.reddit.com/r/studytips/comments/1o1mz49/5_ai_tools_every_student_should_know_in_2026_they/
+18,Reddit,r/studytips,yes,Perplexity,positive,yes,https://www.reddit.com/r/studytips/comments/1oaj9br/unlocking_study_superpowers_how_perplexity_comet/
+19,Reddit,r/studytips,yes,claude,positive,yes,https://www.reddit.com/r/studytips/comments/1o16rqu/manim_claude_elevenlabs_is_better_than_any/
+20,Reddit,r/studytips,yes,"ChatGPT, NotebookLM",positive,yes,https://www.reddit.com/r/studytips/comments/1pv3mk8/which_tools_made_your_work_or_study_easier_and/
+21,Reddit,r/studytips,yes,"Claude, ChatGPT, Perplexity",neutral,yes,https://www.reddit.com/r/studytips/comments/1lrnh13/ai_tools_in_college_timesaver_or_academic_trap/
+22,Reddit,r/studytips,yes,not specified,negative,no,https://www.reddit.com/r/studytips/comments/1qdy18q/dont_cancel_your_brain_use_ai_correctly/
+23,Reddit,r/studytips,yes,not specified,negative,yes,https://www.reddit.com/r/studytips/comments/1pmh7qb/i_hate_whats_happening_and_im_really_frustrated/
+24,Reddit,r/college,yes,not specified,negative,yes,https://www.reddit.com/r/college/comments/17z3s1d/ai_checker_said_my_essay_was_written_by_ai/
+25,Reddit,r/college,yes,not specified,negative,yes,https://www.reddit.com/r/college/comments/187nez3/im_scared_my_entirely_human_written_assignement/
+26,Reddit,r/college,yes,AI checker,negative,yes,https://www.reddit.com/r/college/comments/17jns0l/my_professor_accused_me_of_using_ai_on_my_essay/
+27,Reddit,r/college,yes,AI checker,negative,yes,https://www.reddit.com/r/college/comments/18g5vjo/falsely_accused_of_using_ai/
+28,Reddit,r/college,yes,not specified,negative,yes,https://www.reddit.com/r/college/comments/xg1cyk/ai_graded_assignments_are_making_my_gpa_drop/
+29,Reddit,r/college,yes,AI checker,negative,yes,https://www.reddit.com/r/college/comments/xg1cyk/ai_graded_assignments_are_making_my_gpa_drop/
+30,Reddit,r/college,no,n/a,negative,yes,https://www.reddit.com/r/college/comments/tjc35q/getting_a_bad_grade_after_studying_so_much_is/
+31,Reddit,r/college,no,n/a,neutral,yes,https://www.reddit.com/r/college/comments/n8gbjj/straight_a_students_what_is_your_secret_recipe/
+32,Reddit,r/college,yes,not specified,neutral,yes,https://www.reddit.com/r/college/comments/1o6ecsu/how_do_yall_study/
+33,Reddit,r/college,no,n/a,negative,yes,https://www.reddit.com/r/college/comments/8c0zt6/studying_alot_but_still_getting_bad_grades_help/
+34,Reddit,r/uiuc,yes,general,neutral,yes,https://www.reddit.com/r/UIUC/comments/1id0yrb/using_ai_to_complete_coursework/
+35,Reddit,r/uiuc,yes,AI checker,negative,yes,https://www.reddit.com/r/UIUC/comments/1p0wory/accused_of_ai/
+36,Reddit,r/uiuc,no,n/a,negative,hyes,https://www.reddit.com/r/UIUC/comments/d9v197/i_feel_like_no_matter_how_hard_i_study_i_always/
+37,Reddit,r/uiuc,yes,general,negative,no,https://www.reddit.com/r/UIUC/comments/1lyc4vx/cs_major_do_nots_that_i_wish_i_knew_as_a_freshman/
+38,Reddit,r/uiuc,yes,general,neutral,yes,https://www.reddit.com/r/UIUC/comments/1jyhrw8/how_to_become_less_reliant_on_ai/
+39,Reddit,r/studytips,yes,general,positive,no,https://www.reddit.com/r/studytips/comments/1p5lq92/ai_tools_that_actually_helped_me_survive_this/
+40,Reddit,r/studytips,yes,general,positive,yes,https://www.reddit.com/r/studytips/comments/1rq9tt2/3_weeks_using_ai_prompts_and_my/
+41,Reddit,r/studyagent,yes,StudyAgent,positive,yes,https://www.reddit.com/r/StudyAgent/comments/1rs5jzc/unpopular_opinion_ai_can_explain_better_than_any/
+42,Reddit,r/studyagent,yes,Notion,negative,yes,https://www.reddit.com/r/StudyAgent/comments/1rpw67f/polished_my_essay_with_notion_and_now_ai/
+43,Reddit,r/studyagent,yes,"StudyAgent, StealthWriter",negative,yes,https://www.reddit.com/r/StudyAgent/comments/1redbg4/stealthwriter_failed_me_on_gptzero_90_ai_flag_my/
+44,Reddit,r/studyagent,yes,Quillbot,negative,yes,https://www.reddit.com/r/StudyAgent/comments/1rdk23o/is_quillbot_cooked_got_an_85_ai_flag_on_turnitin/
+45,Reddit,r/studytips,yes,"Gemini, Claude, NotebookLM",positive,yes,https://www.reddit.com/r/studytips/comments/1rk9uti/best_ai_app_for_school_work/
+46,Reddit,r/studytips,yes,"ChatGPT, Deepseek",positive,yes,https://www.reddit.com/r/studytips/comments/1kgg1t3/best_ais_for_homework/
+47,Reddit,r/GeminiAI,yes,Deepseek,negative,yes,https://www.reddit.com/r/GeminiAI/comments/1k6oquq/was_letting_ai_do_my_homework_seems_that_it_cannot/
+48,Reddit,r/ChatGPT,yes,"ChatGPT, Perplexity",negative,yes,https://www.reddit.com/r/ChatGPT/comments/1mls70d/can_someone_recommend_an_ai_for_like_asking/
+49,Reddit,r/ChatGPT,yes,ChatGPT,negative,yes,https://www.reddit.com/r/ChatGPT/comments/1hun3e4/my_little_sisters_use_of_chatgpt_for_homework_is/
+50,Reddit,r/ChatGPT,yes,ChatGPT,negative,yes,https://www.reddit.com/r/ChatGPT/comments/1428su7/my_9th_grader_brother_just_used_chatgpt_to/
+51,Reddit,r/studytips,yes,n/a,positive,yes,https://www.reddit.com/r/studytips/comments/1mhaul8/whats_the_most_unethical_study_hack_that_saved/
+52,Reddit,r/ChatGPT,yes,ChatGPT,positive,yes,https://www.reddit.com/r/ChatGPT/comments/1kpi5g5/i_wish_i_had_chatgpt_in_college/?utm_source=chatgpt.com
+53,Reddit,r/ChatGPT,yes,ChatGPT,negative,no,https://www.reddit.com/r/ChatGPT/comments/1gicb1p/dead_internet_meet_college/?utm_source=chatgpt.com
+54,Reddit,r/collegerant,yes,ChatGPT,negative,yes,https://www.reddit.com/r/CollegeRant/comments/1k15mge/no_matter_how_hard_i_work_90_of_my_class_is/
+55,Reddit,r/ChatGPTPro,yes,ChatGPT,negative,yes,https://www.reddit.com/r/ChatGPTPro/comments/1h4mnsy/is_chatgpt_plus_very_accurate_and_helpful_on/
+56,Reddit,r/englishmajors,yes,ChatGPT,negative,yes,https://www.reddit.com/r/englishmajors/comments/1lnk2qm/my_friend_uses_chatgpt_to_study_for_exams_and_i/
+57,Reddit,r/student,yes,ChatGPT,neutral,yes,https://www.reddit.com/r/Student/comments/1k47ote/can_you_use_chatgpt_to_write_essays/
+58,Reddit,r/OpenAI,yes,general,neutral,no,https://www.reddit.com/r/OpenAI/comments/1r7ts1b/building_an_ai_productivity_stack_on_a_student/
+59,Reddit,r/math,yes,ChatGPT,negative,yes,https://www.reddit.com/r/math/comments/1kc8icb/the_plague_of_studying_using_ai/
+60,Reddit,r/ChatGPT,yes,ChatGPT,negative,yes,https://www.reddit.com/r/ChatGPT/comments/15ts9uc/college_students_are_submitting_work_saying_i_am/
+61,Reddit,r/ChatGPT,yes,ChatGPT,positive,no,https://www.reddit.com/r/ChatGPT/comments/1qq7qsz/how_i_use_chatgpt_to_really_learn_stuff_in_my/
+62,Reddit,r/ChatGPT,yes,ChatGPT,negative,no,https://www.reddit.com/r/AskReddit/comments/1qjfou2/what_are_you_guys_learning_from_chatgpt_and_what/
+63,Reddit,r/TurnitinAIResults,yes,ChatGPT,negative,yes,https://www.reddit.com/r/TurnitinAIResults/comments/1rfhtbb/college_is_basically_just_a_very_expensive/
+64,Reddit,r/learnprogramming,yes,general,negative,no,https://www.reddit.com/r/learnprogramming/comments/1oumumq/for_students_using_ai_to_do_their_college/
+65,Reddit,r/csmajors,yes,general,negative,no,https://www.reddit.com/r/csMajors/comments/1mgq83t/please_dont_use_ai_to_code_in_college/
+66,Reddit,r/uiuc,yes,AI checker,negative,yes,https://www.reddit.com/r/UIUC/comments/13hu0hc/a_zero_on_a_final_essay/
+67,Reddit,r/uiuc,no,n/a,negative,yes,https://www.reddit.com/r/UIUC/comments/k69b03/i_have_officially_moved_from_i_really_dont_want/
+68,Reddit,r/uiuc,no,n/a,neutral,yes,https://www.reddit.com/r/UIUC/comments/13w4okm/what_is_the_best_study_toolstrategy_you_have_ever/
+69,Reddit,r/uiuc,yes,AI checker,negative,yes,https://www.reddit.com/r/UIUC/comments/12tu3je/fyi_if_you_are_being_accused_of_using_ai_because/
+70,Reddit,r/uiuc,yes,AI checker,negative,yes,https://www.reddit.com/r/UIUC/comments/1oq1zam/instructor_unfairly_academically_violated_me_for/
+71,Reddit,r/uiuc,yes,ChatGPT,neutral,yes,https://www.reddit.com/r/UIUC/comments/11xs2y0/help_chat_gpt/
+72,Reddit,r/education,yes,AI checker,negative,yes,https://www.reddit.com/r/education/comments/1r3teo7/ai_policy_in_universities_is_ruining_the/
+73,Reddit,r/checkmyturnitin_ai,yes,general,neutral,hno,https://www.reddit.com/r/CheckMyTurnitin_ai/comments/1qlb59a/why_schools_say_ai_is_allowed_but_still_punish/
+74,Reddit,r/school,yes,ChatGPT,neutral,yes,https://www.reddit.com/r/school/comments/1rtgc9e/do_you_think_ai_being_used_in_schools_should_be/
+75,Reddit,r/students,yes,NotebookLM,positive,yes,https://www.reddit.com/r/Students/comments/1re755b/any_ai_recommendations/
+76,Reddit,r/studytips,yes,AI checker,neutral,yes,https://www.reddit.com/r/studytips/comments/1pk19py/quick_question_for_people_who_use_ai_for/
