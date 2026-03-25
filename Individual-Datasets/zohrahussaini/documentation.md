@@ -1,23 +1,23 @@
 #### Initial Dataset Documentation
-I built a dataset of 50 news articles that focus on artificial intelligence (AI) and plagiarism in education. Instead of looking at actual cheating cases, I focused on how news media talks about AI and academic integrity. The goal of my dataset is to see how students, professors, and universities are being represented in these discussions and what kinds of concerns or ideas come up most often.
+For this project, I created a dataset of 50 news articles related to artificial intelligence and plagiarism in education. Instead of focusing on actual cheating cases, I looked at how the media discusses AI and academic integrity. The purpose of this dataset is to understand how different groups, like students, professors, and universities, are portrayed and what kinds of ideas or concerns show up in these conversations.
 
 #### How I Collected the Data
-I did not copy this from an existing dataset because I could not find one that directly focused on AI plagiarism in news media. Instead, I created my own dataset by looking at common themes in news coverage from sources like CNN, BBC, New York Times, and others. I based my dataset on the types of articles that are commonly published about AI tools like ChatGPT and their impact on education. I then created entries that represent these recurring topics and patterns.
+I wasn’t able to find an existing dataset that matched this exact topic, so I built one myself. I looked at common patterns in news coverage from sources such as CNN, BBC, and the New York Times. I paid attention to the types of stories being published about tools like ChatGPT and their role in education, then created entries based on those recurring themes.
 
 #### The Tools I Used
-I used a basic spreadsheet to organize my data and then exported it as a CSV file. I did not use any automation tools because this dataset is based on interpreting themes and categories like tone and topic, which require human judgment. Everything was entered manually.
+I organized everything using a simple spreadsheet and then saved it as a CSV file. Since I was working with categories like tone and topic, I couldn’t really automate the process. I had to go through and enter everything manually based on my own interpretation.
 
 #### The Decisions I Had to Make
-I had to decide what categories to include in my dataset. I chose columns like topic, tone, and focus group because I felt like these would help me analyze how AI plagiarism is being framed. I also had to decide how to label tone (positive, negative, neutral), which is somewhat subjective. I tried to stay consistent when labeling each row.
+One of the main decisions was choosing what information to include. I decided on columns like topic, tone, and focus group because they seemed the most useful for analyzing how AI plagiarism is being discussed. I also had to decide how to label tone (positive, negative, or neutral), which isn’t always clear-cut, so I just tried to stay consistent across the dataset.
 
-#### Challenges I Faced 
-One challenge was that it is hard to measure something like “tone” because it depends on interpretation. Another challenge was not having access to real data about plagiarism cases, so I had to focus only on public discussions in the media. It was also difficult to make sure the dataset felt realistic and balanced.
+#### Challenges I Faced
+A big challenge was that tone is subjective, so it can be hard to label articles in a completely objective way. Another issue was that I couldn’t access real data about plagiarism cases, so I had to rely on public media discussions instead. It also took some effort to make sure the dataset felt balanced and not too one-sided.
 
 #### What I Noticed
-While creating the dataset, I noticed that a lot of articles tend to focus on concerns and negative aspects of AI, especially around cheating and fairness. At the same time, there are also some neutral or positive perspectives, especially when talking about AI as a learning tool. This shows that the topic is very debated and not one-sided.
+As I was putting the dataset together, I noticed that many articles focus on the negative side of AI, especially concerns about cheating and fairness. At the same time, some articles take a more neutral or even positive approach, talking about AI as a helpful tool. This shows that there isn’t just one clear opinion on the topic.
 
 #### What the Data Can and Cannot Tell Us
-This dataset can help show patterns in how AI plagiarism is talked about in the media, such as which groups are being focused on and whether the tone is mostly positive or negative. However, it cannot tell us how often students actually cheat or how universities handle real cases, since that kind of data is not publicly available.
+This dataset is useful for identifying patterns in how AI plagiarism is discussed in the media, such as who is being talked about and whether the tone is mostly positive or negative. However, it doesn’t tell us anything about actual rates of cheating or how universities handle real cases, since that kind of data isn’t publicly available.
 
 #### Final Thoughts
-I think this dataset is a good starting point for understanding how AI and academic integrity are discussed in society. Even though it is limited, it helped me see that plagiarism and AI are not simple issues, and different groups have very different perspectives on them.
+Overall, I think this dataset is a good starting point for exploring how AI and academic integrity are viewed in society. Even though it has limitations, it helped me realize that these issues are more complex than they seem, and different groups have different perspectives on them.
