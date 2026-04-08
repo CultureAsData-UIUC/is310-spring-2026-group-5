@@ -1,9 +1,13 @@
 **Diana Ngo’s Critical Computing & Cultural Data**
 
 **Article:** A Labelled Dataset for Sentiment Analysis of Videos on YouTube, TikTok, and Other Sources about the 2024 Outbreak of Measles 
+
 **Authors:** Nirmalya Thakur, Vanessa Su,Mingchen Shao ,Kesha A. Patel,Hongseok Jeong,Victoria Knieling, Andrew Bian
+
 **Publication Venue:** 26th International Conference on Human-Computer Interaction (HCII 2024)
+
 **Date/Year:** June 11, 2024
+
 **URL:** https://huggingface.co/papers/2406.07693
 
 **Link to code repository:** https://dx.doi.org/10.21227/40s8-xf63
