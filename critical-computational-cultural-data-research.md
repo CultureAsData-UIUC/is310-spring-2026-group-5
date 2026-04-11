@@ -35,9 +35,11 @@ The computational methods that are being used are the data collection through Yo
 
 Claude AI Sonnet 4.6 was able to recognize the details of the study including the number of videos, websites, research topic, timeframe, and NLP tools used. Additionally, the Claude AI was able to briefly summarize the analysis results, correctly stating that the neutral sentiments were the majority in both videos titles being 62.78% and descriptions being 40.46%. At the end of the generated output Claude addressed the goals of the study of highlighting the 2024 measles outbreak from a sentiment and subjectivity approach and to fill in literature gaps. However, Claude AI missed citation to the news website listed, oversimplying the sites to “various news organizations” (Claude AI Sonnet 4.6). Claude AI also did not provide reasoning towards why the researcher investigated the 2024 measles outbreak specifically, excluding the mention of COVID-19 and the prevalence of social media during the pandemic time that was heavily regarded in the research article. The main tradeoffs made through Claude AI are various sources and details about where the data was collected, the research questions, and the distinct purpose of the research itself. My AI prompt may have limited Claude AI to oversimply and concise the article naturally as I prompted it to generate only 1-2 paragraphs. However, even though there are overgeneralizations and missing details about the study, Claude AI did not make any inaccurate assumptions. I believe that Claude AI was decent at capturing the overall summary of the article and computational methodology, but fails in providing details in crucial sources stated in the article. 
 
+---
+
 **Tara Vittal’s Critical Computing & Cultural Data**
 
-## Article Information
+**Article Information**
 - **Article:** Exploratory Computation in Digital Humanities: A Qualitative Evaluation Framework  
 - **Authors:** Cindy Anh Nguyen, Alejandro Alvarado Rojas  
 - **Publication Venue:** *Journal of Open Humanities Data*  
