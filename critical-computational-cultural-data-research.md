@@ -46,23 +46,21 @@ Claude AI Sonnet 4.6 was able to recognize the details of the study including th
 - **Link to code repository:** Provided within article supplementary materials  
 - **Search Prompt:** “digital humanities computation framework evaluation”  
 
-## Part 1: AI Summary
+**Part 1: AI Summary**
 
-**ChatGPT**  
-**Prompt:** “Generate a 1–2 paragraph summary of this article.”  
+**ChatGPT Prompt:** “Generate a 1–2 paragraph summary of this article.”  
 
 **Output:**  
-> This article introduces a qualitative evaluation framework for exploratory computation in digital humanities. The authors argue that computational methods in cultural research are often used in exploratory ways rather than strictly hypothesis-driven analysis, and therefore require different criteria for evaluation. The framework emphasizes interpretability, transparency, and the iterative relationship between data and method, encouraging researchers to critically reflect on how computational tools shape their findings.  
->  
-> The paper also highlights how computational processes such as data cleaning, visualization, and pattern detection are not neutral but actively influence the construction of knowledge. By presenting examples from digital humanities projects, the authors demonstrate how exploratory computation can both reveal new insights and risk oversimplifying complex cultural phenomena. The framework aims to guide researchers in assessing when computational approaches are meaningful and when they may obscure important context.  
+This article introduces a qualitative evaluation framework for exploratory computation in digital humanities. The authors argue that computational methods in cultural research are often used in exploratory ways rather than strictly hypothesis-driven analysis, and therefore require different criteria for evaluation. The framework emphasizes interpretability, transparency, and the iterative relationship between data and method, encouraging researchers to critically reflect on how computational tools shape their findings.  
+The paper also highlights how computational processes such as data cleaning, visualization, and pattern detection are not neutral but actively influence the construction of knowledge. By presenting examples from digital humanities projects, the authors demonstrate how exploratory computation can both reveal new insights and risk oversimplifying complex cultural phenomena. The framework aims to guide researchers in assessing when computational approaches are meaningful and when they may obscure important context.  
 
-## Part 2: My Critical Assessment
+**Part 2: My Critical Assessment**
 
 The cultural data being analyzed in this article consists broadly of digital humanities datasets such as textual archives, cultural records, and other forms of digitized cultural artifacts. Rather than focusing on a single dataset, the article discusses how researchers interact with cultural data at different stages, including cleaning, structuring, and analyzing it through computational tools. The data typically comes from digitized collections such as historical texts, archives, or online cultural content, and is often large-scale, requiring computational assistance to manage. However, what is missing from this data is the full depth of cultural meaning, context, and interpretation that cannot always be captured through structured or digitized formats. While the data represents cultural phenomena at scale, it risks flattening important nuances such as historical context, ambiguity, and subjective interpretation. As a result, the data captures patterns and trends but may not fully represent the richness and complexity of cultural experiences.  
 
 The computational methods discussed include data processing, visualization, and exploratory analysis techniques commonly used in digital humanities. Conceptually, these methods are used not just to analyze data, but to explore it iteratively, allowing researchers to identify patterns, test ideas, and refine their understanding over time. The primary purpose of computation in this article is both augmentation and analysis, as it helps structure large datasets while also generating insights from them. The authors argue that computation is not neutral and actively shapes the research outcomes, influencing what patterns are visible and how conclusions are formed. These computational goals shape the data by prioritizing what can be measured and visualized, which may exclude less quantifiable aspects of culture. I believe computation is somewhat necessary in this context because the scale of digital humanities data would be difficult to manage manually. However, the same insights about interpretation and cultural meaning could potentially be explored through qualitative methods without heavy reliance on computation. Therefore, while computation adds efficiency and scalability, it also introduces tradeoffs in how cultural data is represented and understood.  
 
-## Part 3: What AI Missed
+**Part 3: What AI Missed**
 
 ChatGPT was able to recognize the main purpose of the article, including the focus on exploratory computation and the idea that computational methods shape research outcomes. It also correctly identified the importance of interpretability and the risks of oversimplifying cultural data. However, the AI summary oversimplifies the role of computation by presenting it as a general tool rather than emphasizing the iterative and experimental nature highlighted by the authors. It also does not fully address the tension between computational efficiency and the loss of cultural nuance, which is a central argument in the article. Additionally, the AI does not reference specific examples or discuss how the framework applies in practice within digital humanities research.  
 
