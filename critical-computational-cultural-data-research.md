@@ -88,3 +88,7 @@ Output:
 This article examines the growing challenge of detecting AI-generated student essays due to the rise of large language models such as ChatGPT and Gemini. The authors introduce three datasets composed of both human-written and AI-generated essays in Arabic, designed to represent different scenarios of academic writing. These datasets are used to train and evaluate models that can distinguish between human and machine-generated text.
 
 The study uses fine-tuned CAMeLBERT models to perform binary classification, labeling essays as either human-written or AI-generated. The results show very high accuracy, averaging around 95.5%, suggesting that these models are effective for detecting AI-generated academic content. The authors argue that such computational approaches can help educational institutions maintain academic integrity in the age of generative AI.
+
+#### Part 2: My Critical Assessment
+
+#### Part 3: What AI Missed
