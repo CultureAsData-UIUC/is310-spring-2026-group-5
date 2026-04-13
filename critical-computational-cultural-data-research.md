@@ -69,7 +69,7 @@ ChatGPT was able to recognize the main purpose of the article, including the foc
 Overall, while the AI summary captures the general idea of the article, it misses important nuance about how computation interacts with cultural data and the critical evaluation framework proposed by the authors.  
 
 
-#### Zohra Hussaini Critical Computing & Cultural Data**
+### Zohra Hussaini Critical Computing & Cultural Data**
 
 #### Article Information
 - **Article:** Student or AI? Automated Detection of AI-generated Student Essays
