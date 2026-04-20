@@ -90,10 +90,12 @@ This article examines the growing challenge of detecting AI-generated student es
 The study uses fine-tuned CAMeLBERT models to perform binary classification, labeling essays as either human-written or AI-generated. The results show very high accuracy, averaging around 95.5%, suggesting that these models are effective for detecting AI-generated academic content. The authors argue that such computational approaches can help educational institutions maintain academic integrity in the age of generative AI.
 
 #### Part 2: My Critical Assessment
-What is the Data?
+What is the Data:
+
 The data is basically three big sets of Arabic student essays. Some of them are real essays written by actual students (taken from university archives), and the others were made by AI like ChatGPT and Google Gemini. This is a big deal because there isn't much data like this for the Arabic language compared to English. The main problem, though, is that the data is either "all human" or "all AI." It doesn't include the "hybrid" stuff, like when a student writes an essay but uses AI to fix it up. Since the data is so black and white, it kind of ignores the "gray area" of how students actually use AI as a tool today.
 
-How is Computation Used and Why?
+How is Computation Used and Why:
+
 The researchers used machine learning and a specific model called CAMeLBERT to scan the text. Basically, the computer looks for math patterns in the way words are put together to guess who wrote it. The goal is to catch AI-generated work and keep things fair in school. You definitely need a computer for this because humans can't really see the tiny differences between a person's writing and a smart AI like GPT-4, especially when looking at thousands of papers. But there’s a catch: because the model was only trained on "perfect" AI and "perfect" human examples, it might not be as good at catching students who are smart enough to change the AI's wording to make it sound more human.
 
 #### Part 3: What AI Missed
