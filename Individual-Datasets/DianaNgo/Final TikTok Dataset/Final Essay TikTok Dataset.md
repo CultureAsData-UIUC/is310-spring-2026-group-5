@@ -1,6 +1,7 @@
 ## Abstract
 
 🔗 Final TikTok Dataset: https://drive.google.com/file/d/1ow19B6oMA0IJt9pl6Bi7jsakbHtoM56B/view?usp=sharing
+(CSV file must be downloaded)
 
 This project investigates TikTok culture through online communities of BookTok and DanceTok, analyzing how viewers engage within these social spaces through comments by matching hashtags and utilizing sentiment analysis. The dataset is a combination of manually collected TikTok data along with a computationally scaled dataset that is derived from the Shofo/shofo-tiktok-general-small dataset on Hugging Face. The overall dataset contains 4,810 comment entries, with indications on which comments were manually found and which were collected from the Shofo dataset when scaling. 
 
