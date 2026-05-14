@@ -1,0 +1,4 @@
+Collective Principles & Documentation 5%
+Your group will collaboratively write a document with you group that synthesizes what you collectively learned about working with your particular type of cultural data. This is NOT a repeat of individual data essays—it’s methodological guidance and collective wisdom for future researchers.
+
+Think of this as: Writing the documentation you wish had existed when you started this project. What should someone know before they attempt to represent music as data? Or social media? Or gaming culture? What principles emerged from your group’s diverse approaches to similar materials? At its core, this document should include a set of principles for working with your cultural topic as data. The document should also attempt to note how each member contributed to its format, and like all work it will be submitted in your group’s collective GitHub repository.
