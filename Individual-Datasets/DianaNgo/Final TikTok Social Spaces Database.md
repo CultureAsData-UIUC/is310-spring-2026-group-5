@@ -159,7 +159,7 @@ Within the manual dataset, every entry was a video, and for each video was top 5
 
 Now, both the manual dataset and the scaled dataset have each entry as a comment. 
 
-| ![](scaled%20dataset%20image.jpg) |
+| ![](scaled%20dataset%20image.png) |
 | :--: |
 | <b>Figure 2.</b> Combined Dataset Image. |
 
