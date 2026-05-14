@@ -7,7 +7,7 @@ The programming was done through VS code, using python, hashtag filtering, and V
 The results indicated that both BookTok and DanceTok communities contain majority neutral comments. BookTok's sentiment analysis displayed an overall slightly stronger attitude of positive and negative comments compared to DanceTok. Meanwhile, DanceTok contained a significantly higher volume of video content and comment engagement. The dataset represents the challenges working with online culture as data, as media rich content have various restrictions such as API limitations, unrelated results, format inconsistencies, and overgeneralizations with Lexicon sentiment tools. 
 
 
-## Introduction
+## Introduction:
 
 This final dataset represents the culture of TikTok-made communities, specifically looking into the difference in engagement between BookTok and DanceTok. TikTok has been an emerging social media platform that engages a diverse range of communities, which range from subjects of cooking, studying, and hobbies. Among the range of “Tok’ communities, there is a lack of investigation on the way people engage with the content. Numeric metrics such as views, reposts, and saves are commonly recorded and analyzed, but do these quantitative analyses truly represent the attitudes and engagement of these social spaces on TikTok? This database observes the TikTok culture through curating and scraping cultural data, capturing both qualitative and quantitative patterns across BookTok and DanceTok online communities in effort to address differences in engagement across these social spaces . 
 
@@ -43,7 +43,7 @@ Based on the sentiment analysis, there is a generally positive or neutral commen
 
 Initially, I wanted this dataset to scrape the WayBack Machine to create a small-scale initial dataset. However, when I considered the challenges with missing and inconsistent data and long, unreliable wait times for generating archived data, I started to reconsider how I will approach my initial dataset. Similarly, I realized that my investigation into social spaces wouldn’t quite reflect my approach to utilizing WayBack Machine to see the progression of social media interfaces, as this doesn’t engage with the communities, but rather tackles the evolution of social media interfaces. At this point, I decided to pivot my research plan, aiming to collect 50 TikTok videos under their respective hashtags, measuring their engagement rates. Initially, I proposed that I would record 5 different hashtags, such as BeautyTok, DanceTok, BookTok, FoodTok, and GymTok. However, after consulting with Professor Zoe, I realized that my research scope is not defined, and I broadened my scope too widely. Although it would be great to cover these various TikTok communities, investigating this media-rich data with the goal of analyzing engagement between them wouldn’t be as insightful. In the case where I only search for quantitative data, such as the number of views, likes, shares, etc., this wide approach that incorporates multiple hashtags would be more suitable. However, the goal of this semester-long project is to explore how I am able to create and work with culture as data, and to seek that culture, I must funnel my focus on the qualitative data more directly, which guided my reasoning to condense my hashtag search to only BookTok and DanceTok.
 
-Initial Dataset Plan:
+**Initial Dataset Plan:**
 Manually collected & recorded on Google Sheets
 2 hashtags: #Booktok & #DanceTok
 25 videos each
@@ -63,7 +63,7 @@ Not feasible to scale to larger data (100+)
 The manual dataset allows for more customization in labeling, columns, and ranges
 
 
-## Scaling Dataset
+## Scaling Dataset:
 
 As I approached the next step after creating my initial dataset, I worked on scaling my dataset through computation. I originally wanted to obtain TikTok data through an API, but this presented as a major issue as the TikTok API is non-accessible to the public. In light of this obstacle, I surfed the internet for an existing TikTok dataset that is similar to my goals from my initial dataset. I searched through Hugging Face, which is an online center that has various open datasets. Within my search, I considered a dataset with the following attributes.
 
@@ -216,7 +216,7 @@ How to use an API and how certain corporations restricts API because of business
 Cultural data can disappear if not properly recorded and archived 
 
 
-## Qualifications & Limitations
+## Qualifications & Limitations:
 
 Over the semester, the scale shaped the priorities and structure of the data. When scaling, I place further emphasis on the qualitative data I could collect through the Shofo database to truly reflect how I may capture culture within data that goes beyond the numeric metrics of social media spaces. 
 
@@ -232,5 +232,5 @@ All posts on the TikTok platform were permitted for public viewing, so collectin
 
 Overall, this dataset analyzes the online social spaces of BookTok and DanceTok on the TikTok social media platform. The goal of this dataset is to analyze how engagement between online spaces interacts across different TikTok communities. This database contributes to the overall investigations into how people interact with emerging online platforms in the ways they contribute their opinions, critiques, and reactions that build these communities. The data collection itself serves as an attempt to investigate cultural attitudes and patterns and how these qualitative metrics can be measured. Moving forward, this dataset can continue to find more innovative ways to analyze the data collected that go beyond comment type categorization and Lexicon sentiment analysis, possibly considering more complex frameworks that can automate identities for comments and their contribution to the TikTok community culture. 
 
-AI Usage Disclaimer: 
+**AI Usage Disclaimer:** 
 This project, under the permission of Professor Zoe and guidance of the AI Policy listed on the course website, I used ChatGPT to help debug and curate sections of my code, most notably for analyzing sentiment analysis, importing VADER, debugging function logic, and reformatting the CSV file. Ultimately, all data collection, research decisions, and writing were completed by me (the author), and all code was reviewed and cleaned if necessary. 
