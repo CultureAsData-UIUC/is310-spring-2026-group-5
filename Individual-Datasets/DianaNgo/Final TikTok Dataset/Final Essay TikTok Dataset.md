@@ -153,7 +153,7 @@ With this trade-off, I prioritized the quality and relevance of the data collect
 
 When scaling the project, combining my manual dataset with the Shofo dataset, I reconsidered how I structured the overall layout. Within my manual dataset, the structure reflected the following: 
 
-| ![](manual%20dataset%20image.png) |
+| ![](manual%20dataset%20sample.png) |
 | :--: |
 | <b>Figure 1.</b> Manual Dataset Image. |
 
@@ -161,7 +161,7 @@ Within the manual dataset, every entry was a video, and for each video was top 5
 
 Now, both the manual dataset and the scaled dataset have each entry as a comment. 
 
-| ![](scaled%20dataset%20image.png) |
+| ![](scaled%20dataset%20sample.png) |
 | :--: |
 | <b>Figure 2.</b> Combined Dataset Image. |
 
