@@ -151,19 +151,17 @@ What changes occur when the project is scaled?
 
 When scaling the project, combining my manual dataset with the Shofo dataset, I reconsidered how I structured the overall layout. Within my manual dataset, the structure reflected the following: 
 
-[maunal dataset]
-
-
-
-
+| ![](manual%20dataset%20image.png) |
+| :--: |
+| <b>Figure 1.</b> Manual Dataset Image. |
 
 Within the manual dataset, every entry was a video, and for each video was top 5 comments and their respective comment type. However, when analyzing the Shofo dataset, their comment column contains multiple comments within rows, which makes it difficult to compare the two videos and work with them. As a result, I decided to create separate columns for both manual comments and the Shofo dataset comments to make them more usable for analysis. 
 
 Now, both the manual dataset and the scaled dataset have each entry as a comment. 
 
-
-[combined dataset]
-
+| ![](scaled%20dataset%20image) |
+| :--: |
+| <b>Figure 2.</b> Combined Dataset Image. |
 
 What interpretive decisions were automated?
 
