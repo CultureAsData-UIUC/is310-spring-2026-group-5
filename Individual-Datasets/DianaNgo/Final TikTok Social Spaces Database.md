@@ -7,7 +7,7 @@ The programming was done through VS code, using python, hashtag filtering, and V
 The results indicated that both BookTok and DanceTok communities contain majority neutral comments. BookTok's sentiment analysis displayed an overall slightly stronger attitude of positive and negative comments compared to DanceTok. Meanwhile, DanceTok contained a significantly higher volume of video content and comment engagement. The dataset represents the challenges working with online culture as data, as media rich content have various restrictions such as API limitations, unrelated results, format inconsistencies, and overgeneralizations with Lexicon sentiment tools. 
 
 
-**Introduction**
+##Introduction
 
 This final dataset represents the culture of TikTok-made communities, specifically looking into the difference in engagement between BookTok and DanceTok. TikTok has been an emerging social media platform that engages a diverse range of communities, which range from subjects of cooking, studying, and hobbies. Among the range of “Tok’ communities, there is a lack of investigation on the way people engage with the content. Numeric metrics such as views, reposts, and saves are commonly recorded and analyzed, but do these quantitative analyses truly represent the attitudes and engagement of these social spaces on TikTok? This database observes the TikTok culture through curating and scraping cultural data, capturing both qualitative and quantitative patterns across BookTok and DanceTok online communities in effort to address differences in engagement across these social spaces . 
 
