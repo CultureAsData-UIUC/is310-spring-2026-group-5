@@ -194,10 +194,10 @@ When combining both the manual and scaled Shofo dataset, there were issues with 
 BookTok hashtags output significantly lower results than under the DanceTok hashtag. When adjusting the exact tags for BookTok, I had issues with unrelated outputs. This issue may be due to BookTok being more niche while DanceTok is more general, as TikTok itself was originally a platform for lip syncing and dances. 
 
 ## Takeaways from Scaled Dataset:
-Scraping a large dataset may restrict record-keeping of media-rich data (unable to download videos due to the large volume)
-Sentiment Analysis is quicker, but can be overgeneralized 
-Combining a manual and a scaled dataset causes issues with format and consistency 
-More flexibility in locating videos under various hashtags 
+- Scraping a large dataset may restrict record-keeping of media-rich data (unable to download videos due to the large volume)
+- Sentiment Analysis is quicker, but can be overgeneralized 
+- Combining a manual and a scaled dataset causes issues with format and consistency 
+- More flexibility in locating videos under various hashtags 
 
 
 ## Differences between Initial (Manual Dataset & Scaled Dataset):
