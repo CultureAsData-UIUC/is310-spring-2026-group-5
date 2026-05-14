@@ -1,0 +1,37 @@
+# Final Data Essay: AI, Plagiarism, and Media in Education
+
+For this project, I created a dataset of 50 news articles about artificial intelligence and plagiarism in education. Instead of focusing on actual cheating cases, I looked at how news media talks about AI tools like ChatGPT and how they relate to academic honesty. My goal was to understand how students, teachers, and universities are being portrayed and what patterns show up in these discussions.
+
+## What the Dataset Shows About Culture
+
+This dataset is basically a way to look at a cultural conversation about AI in education. The articles I collected show how people are still trying to figure out what AI means in schools. Some articles see AI as a problem because it can help students cheat, while others see it as a helpful tool for learning.
+
+When I turned the articles into structured data, I could see patterns more clearly instead of just reading individual stories. It helped me realize that media is not just reporting facts—it is also shaping how people think about AI and students.
+
+## How Computation and Scale Helped
+
+Even though I collected the data manually, using a spreadsheet and CSV file still made a big difference. It let me organize everything into categories like tone, topic, and focus group, which made it easier to compare articles.
+
+Having 50 articles also mattered because it was enough to start seeing patterns. For example, I noticed that a lot more articles had a negative tone compared to positive ones, especially when talking about cheating or fairness. If I only looked at a few articles, I probably would not have noticed that. At the same time, 50 articles is still a small dataset, so it only shows a limited picture of the bigger conversation.
+
+## What I Noticed in the Data
+
+One main pattern is that students are usually the main focus when AI plagiarism is discussed. Most articles talk about students using AI to cheat or struggle with academic rules. Teachers and universities are often shown as the ones trying to respond or control the situation.
+
+I also noticed that AI is often talked about in a worried or negative way. Even when articles are positive, they usually still treat AI as something new and risky. This shows that there is still a lot of uncertainty about how AI fits into education.
+
+## What the Dataset Does Not Show
+
+This dataset only shows how the media talks about AI, not what is actually happening in classrooms. It does not include real cheating data or student experiences, just public reporting. So it reflects opinions and framing more than reality.
+
+Another limitation is that labeling tone was subjective. Sometimes it was hard to decide if an article was negative or neutral, so my own interpretation affected the dataset. Also, most of the articles are from English-language news sources, so it does not include global perspectives.
+
+## Ethical Issues
+
+There are no personal privacy issues in the dataset because it is based on public news articles. However, there is still an ethical issue in how media can shape opinions. If most articles focus on cheating, it might make students look more dishonest than they really are. So even though the data is “safe,” it can still influence how people think about students and AI.
+
+## Final Thoughts
+
+Overall, this project helped me see that datasets are not just neutral information. They are shaped by choices like what to include, how to categorize things, and how to interpret meaning.
+
+I also learned that media plays a big role in shaping how we think about AI in education. While my dataset helped show some patterns, it also has limits and does not represent the full picture. This made me realize that working with cultural data is not just about collecting information, but also thinking about what that information leaves out.
