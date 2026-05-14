@@ -147,7 +147,7 @@ As you can see, unrelated videos were scraped, such as “dreads, Facebook, mens
 With this trade-off, I prioritized the quality and relevance of the data collected rather than the volume. Although creating an exact tag filter and lowering the number of hashtags resulted in the original 280 videos total being lowered to 97 videos, these videos all represent the BookTok and DanceTok social spaces that increase the quality of the combined dataset. 
 
 
-What changes occur when the project is scaled?
+## What changes occur when the project is scaled?
 
 When scaling the project, combining my manual dataset with the Shofo dataset, I reconsidered how I structured the overall layout. Within my manual dataset, the structure reflected the following: 
 
@@ -163,8 +163,7 @@ Now, both the manual dataset and the scaled dataset have each entry as a comment
 | :--: |
 | <b>Figure 2.</b> Combined Dataset Image. |
 
-What interpretive decisions were automated?
-
+## What interpretive decisions were automated?
 As mentioned previously, with the manual dataset, I created 4 comment type categories: Opinion/Reaction, Question, Giving Advice/Help, and Other. This categorization was a manual form of analysis, where I looked through each comment and determined from my own judgment which category(s) the comment fits into. The manual categorization allowed me to observe each individual comment with greater intention and analysis, but also took an extensive amount of time. As I embarked on scaling my project, I knew I wanted to mimic my manual comment type categorization through automation. After completing the “Critical Computing & Cultural Data: Building Principles Through Published Research” assignment where I conducted a literature review on “A Labelled Dataset for Sentiment Analysis of Videos on YouTube, TikTok, and Other Sources about the 2024 Outbreak of Measles” by Nirmalya Thakur et al., I learned about how they utilized VADER for sentiment analysis, TextBlob for subjectivity analysis, and DistilRoBERTa-base for fine-grained sentiment analysis for their investigation into social media content on 2024 measles outbreaks. From this literature review, I was inspired by their use of VADER for sentiment analysis and equipped this tool to automate comment type attitudes within my dataset. 
 
 ## What is VADER?
