@@ -4,7 +4,7 @@ Your group will collaboratively write a document with your group that synthesize
 
 Think of this as: Writing the documentation you wish had existed when you started this project. What should someone know before they attempt to represent music as data? Or social media? Or gaming culture? What principles emerged from your group’s diverse approaches to similar materials? At its core, this document should include a set of principles for working with your cultural topic as data. The document should also attempt to note how each member contributed to its format, and like all work, it will be submitted in your group’s collective GitHub repository.
 
-Contributors: Diana Ngo, Tara, Zohra Hussaini
+Contributors: Diana Ngo, Tara, Zohra Hussaini, Haneen Odeh
 
 ---
 
@@ -18,6 +18,11 @@ I learned different ways to turn online conversations, in this case about ChatGP
 
 **Zohra -**  
 I learned that articles and online discussions about AI are not completely neutral. They show people’s opinions, worries, and ideas about students and technology. While making my dataset about AI plagiarism in education, I realized that turning articles into data takes interpretation. For example, deciding if an article was “positive” or “negative” was sometimes based on my own judgment. I also learned that even a smaller dataset can still show patterns in how people talk about AI. At the same time, my dataset did not show everything because it only focused on news articles and not real classroom experiences. This helped me understand that datasets are shaped by both the information collected and the person collecting it.
+
+**Haneen -**
+I learned that scholarly datasets are also highly interpretive, even when they appear more structured or objective than social media data. While creating my dataset about AI in K-12 education, I realized that categorizing articles into themes such as “productivity,” “ethics,” or “teacher attitudes” often depended on my own interpretation of abstracts and article summaries. I also learned that educational AI research changes very quickly, especially after the release of ChatGPT, which made it difficult to keep the dataset current.
+
+In addition, I learned how computational tools can support humanities-oriented data work. Using Python to structure and update the dataset helped me organize large amounts of information more consistently. However, I also experienced how computational workflows can introduce problems such as formatting issues, metadata inconsistencies, and missing information during CSV conversion and data cleaning. This project helped me better understand the relationship between manual interpretation and computational organization in cultural datasets.
 
 **What we learned together -**
 Together, we learned that representing AI and social media culture as data is a highly interpretive process rather than a completely objective one. Across our projects, we experienced how online conversations (Reddit), articles, videos (TikTok), and discussions can be collected and transformed into structured datasets, but also how difficult it can be to accurately capture meaning, emotion, and context. We learned that sentiment analysis tools and coding methods can help identify patterns, yet they often struggle with sarcasm, mixed emotions, and emotions which commonly found in discussions about AI and education. We also discovered that cleaning, organizing, and filtering data is one of the most important and time consuming parts of the process because these online spaces often contain repetitive, irrelevant, or incomplete information. In addition, we recognized that digital media is constantly changing, with postsand discussions often gaining irrelevance over time, making documentation more essential. Most importantly, we learned that cultural datasets are shaped by both the limitations of the platforms being studied and by the decisions of the researcher that is collecting and interpreting the data.
@@ -34,6 +39,12 @@ People should know that sentiments on social media can be very difficult to inte
 
 **Zohra -**  
 People should know that AI culture changes very quickly, so data about it can become outdated fast. News articles and social media posts also do not always represent reality because they often focus on dramatic topics like cheating or academic dishonesty. This can make AI seem more negative than it really is. People should also know that categories like “positive,” “negative,” or “neutral” can be difficult to decide because everyone may interpret articles differently. It is important to look at the context behind the data and understand that people’s opinions about AI are shaped by their own experiences and emotions.
+
+**Haneen -**
+
+People should know that scholarly sources and educational discussions are not completely neutral representations of AI. Academic publications often focus on specific concerns such as academic integrity, cheating, ethics, or policy, which can shape how AI in education is represented overall. It is also important to recognize that educational research changes rapidly because new AI tools and debates emerge constantly.
+
+Another important consideration is that datasets based on scholarly literature may still contain biases. English-language publications and Western educational perspectives are often overrepresented, while perspectives from other educational systems may be less visible. People should also understand that article abstracts do not always fully represent the complexity of the full source, meaning that categorization decisions involve interpretation and simplification.
 
 ---
 
@@ -52,3 +63,13 @@ One important principle I learned is that organizing cultural data into categori
 **Principle 2:** Understand the limitations of sentiment analysis tools and remember that they cannot fully understand human context or emotion.  
 
 **Principle 3:** Check if the platforms or corporations being analyzed provide open access to information or APIs before beginning data collection.
+
+**Haneen -**
+
+**Principle 1:** Even scholarly and academic datasets require human interpretation. Categories such as “positive,” “negative,” or “main theme” are often subjective and should be documented clearly.
+
+**Principle 2:** Computational organization tools such as Python and CSV workflows can improve consistency and scalability, but they also introduce challenges such as formatting problems, metadata inconsistencies, and data cleaning issues.
+
+**Principle 3:** Educational AI research changes rapidly, so datasets about AI in education can become outdated quickly. Researchers should document when data was collected and recognize that scholarly conversations around AI evolve over time.
+
+**Principle 4:** Researchers should think critically about which voices are represented in educational AI datasets. Academic publishing often reflects institutional, geographic, and language biases that shape the dataset itself.
